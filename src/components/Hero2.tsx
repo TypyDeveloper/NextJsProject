@@ -1,7 +1,4 @@
 import React from 'react'
-import { TbMathGreater } from "react-icons/tb";
-import { IoIosArrowRoundForward } from "react-icons/io";
-import { FaApple } from "react-icons/fa";
 import Image from 'next/image';
 import Link from 'next/link';
 

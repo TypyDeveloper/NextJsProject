@@ -1,11 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import { TbMathGreater } from "react-icons/tb";
-import { IoIosArrowRoundForward } from "react-icons/io";
-import { IoIosArrowForward } from "react-icons/io";
-import { IoIosArrowBack } from "react-icons/io";
-import { FaApple } from "react-icons/fa";
-import Image from 'next/image';
+
 
 const Allproducts = () => {
     return (

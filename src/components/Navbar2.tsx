@@ -3,7 +3,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { CiSearch } from "react-icons/ci";
 import { GoHeart } from "react-icons/go";
-import { IoCartOutline } from "react-icons/io5";
+// import { IoCartOutline } from "react-icons/io5";
 
 
 const Navbar2 = () => {

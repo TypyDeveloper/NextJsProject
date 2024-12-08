@@ -5,7 +5,6 @@ import FlightEssential from '@/components/FlightEssential'
 import Gearup from '@/components/Gearup'
 import HeroPage1 from '@/components/Hero1'
 import HeroPage from '@/components/Hero2'
-import Navbar2 from '@/components/Navbar2'
 import React from 'react'
 
 const HomePage = () => {
