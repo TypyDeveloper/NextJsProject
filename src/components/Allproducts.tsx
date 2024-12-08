@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import { TbMathGreater } from "react-icons/tb";
+import Image from 'next/image';
 
 
 const Allproducts = () => {
@@ -109,7 +110,7 @@ const Allproducts = () => {
 {/* Card 1 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
 
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/Image (1).png"
 alt="Card Image" 
 className="w-full h-48 object-cover"
@@ -120,7 +121,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -134,7 +135,7 @@ MPR: 10.56
 
 {/* Card 2 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/download (1).jpeg"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -145,7 +146,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -159,7 +160,7 @@ MPR: 10.56
 
 {/* Card 3 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/download (2).jpeg"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -170,7 +171,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -183,7 +184,7 @@ MPR: 10.56
 </div>
 {/* Card 4 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/download (3).jpeg"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -194,7 +195,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -207,7 +208,7 @@ MPR: 10.56
 </div>
 {/* Card 5 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/download (8).jpeg"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -218,7 +219,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -231,7 +232,7 @@ MPR: 10.56
 </div>
 {/* Card 6 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/download (1).jpeg"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -242,7 +243,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -255,7 +256,7 @@ MPR: 10.56
 </div>
 {/* Card 7 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/download.jpeg"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -266,7 +267,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -279,7 +280,7 @@ MPR: 10.56
 </div>
 {/* Card 8 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/Image (2).png"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -290,7 +291,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -303,7 +304,7 @@ MPR: 10.56
 </div>
 {/* Card 9 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/Image (3).png"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -314,7 +315,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -328,7 +329,7 @@ MPR: 10.56
 
 {/* Card 10 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/Image (3).png"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -339,7 +340,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -352,7 +353,7 @@ MPR: 10.56
 </div>
 {/* Card 11 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/Image (3).png"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -363,7 +364,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color
@@ -376,7 +377,7 @@ MPR: 10.56
 </div>
 {/* Card 12 */}
 <div className="bg-white rounded-lg shadow-md overflow-hidden">
-<Link href={"/productdetails"}><img
+<Link href={"/productdetails"}><Image
 src="/assets/Image (3).png"
 alt="Card Image"
 className="w-full h-48 object-cover"
@@ -387,7 +388,7 @@ className="w-full h-48 object-cover"
 Nike Airforce Mid-07
 </p>
 <p className="mt-1 text-gray-600">
-Men's Shoes
+Men&apos;s Shoes
 </p>
 <p className="mt-1 text-gray-600">
 1 Color

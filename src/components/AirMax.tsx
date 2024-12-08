@@ -42,7 +42,7 @@ const AirMax = () => {
                    
                     </div>
                     <div className=' bg-green-00 w-[156px] h-4  flex  justify-between items-center text-[10px] md:text-lg md:w-[330px] md:h-[25px] mb-3'>
-                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Women's Shoes</h2>
+                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Women&apos;s Shoes</h2>
                     </div>
                     </div>
 
@@ -62,7 +62,7 @@ const AirMax = () => {
                    
                     </div>
                     <div className=' bg-green-00 w-[156px] h-4  flex  justify-between items-center text-[10px] md:text-lg md:w-[330px] md:h-[25px] mb-3'>
-                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Women's Shoes</h2>
+                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Women&apos;s Shoes</h2>
                     </div>
                     </div>
                                         
@@ -82,7 +82,7 @@ const AirMax = () => {
                    
                     </div>
                     <div className=' bg-green-00 w-[156px] h-4  flex  justify-between items-center text-[10px] md:text-lg md:w-[330px] md:h-[25px] mb-3'>
-                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Women's Shoes</h2>
+                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Women&apos;s Shoes</h2>
                     </div>
                     </div>
 

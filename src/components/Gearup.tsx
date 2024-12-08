@@ -40,7 +40,7 @@ const Gearup = () => {
                    
                     </div>
                     <div className=' bg-green-00 w-[156px] h-4  flex  justify-between items-center text-[10px] md:text-lg md:w-[330px] md:h-[25px] mb-3'>
-                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Men's Short Seleeves</h2>
+                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Men&apos;s Short Seleeves</h2>
                     </div>
                     </div>
 
@@ -59,7 +59,7 @@ const Gearup = () => {
                    
                     </div>
                     <div className=' bg-green-00 w-[156px] h-4  flex  justify-between items-center text-[10px] md:text-lg md:w-[330px] md:h-[25px] mb-3'>
-                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Men's 18cm (approx.) 2-in-1 Versatile Shorts</h2>
+                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Men&apos;s 18cm (approx.) 2-in-1 Versatile Shorts</h2>
                     </div>
                     </div>
                                         
@@ -79,7 +79,7 @@ const Gearup = () => {
                    
                     </div>
                     <div className=' bg-green-00 w-[156px] h-4  flex  justify-between items-center text-[10px] md:text-lg md:w-[330px] md:h-[25px] mb-3'>
-                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Women's Long-Sleeve Running Top</h2>
+                        <h2 className='text-[10px] md:text-lg text-gray-800 '>Women&apos;s Long-Sleeve Running Top</h2>
                     </div>
                     </div>
 
