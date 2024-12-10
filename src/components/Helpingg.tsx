@@ -1,12 +1,12 @@
 import React from 'react'
 
-const GetHelp = () => {
+const Helping = () => {
   return (
     <div className="min-h-screen bg-gray-100 flex items-center justify-center p-6">
         <div className="w-full max-w-2xl bg-white rounded-lg shadow-md p-8">
           <h1 className="text-3xl font-bold text-gray-800 text-center mb-6">Get Help</h1>
           <p className="text-gray-600 text-center mb-8">
-            Need assistance? Fill out the form below, and we’ll get back to you shortly.
+            Need assistance? Fill out the form below, and we&apso;ll get back to you shortly.
           </p>
           <form className="space-y-6">
             {/* Name Field */}
@@ -62,7 +62,6 @@ const GetHelp = () => {
               <textarea
                 id="message"
                 name="message"
-                // rows="4"
                 required
                 className="w-full mt-1 px-4 py-2 border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500"
                 placeholder="Write your message here..."
@@ -93,4 +92,4 @@ const GetHelp = () => {
   )
 }
 
-export default GetHelp
+export default Helping
