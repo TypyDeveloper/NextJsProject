@@ -113,6 +113,7 @@ const Allproducts = () => {
 <Link href={"/productdetails"}><Image
 src="/assets/Image (1).png"
 alt="Card Image" 
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -138,6 +139,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/download (1).jpeg"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -163,6 +165,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/download (2).jpeg"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -187,6 +190,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/download (3).jpeg"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -211,6 +215,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/download (8).jpeg"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -235,6 +240,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/download (1).jpeg"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -259,6 +265,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/download.jpeg"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -283,6 +290,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/Image (2).png"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -307,6 +315,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/Image (3).png"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -332,6 +341,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/Image (3).png"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -356,6 +366,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/Image (3).png"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">
@@ -380,6 +391,7 @@ MPR: 10.56
 <Link href={"/productdetails"}><Image
 src="/assets/Image (3).png"
 alt="Card Image"
+width={100} height={48}
 className="w-full h-48 object-cover"
 /></Link>
 <div className="p-4">

@@ -16,12 +16,12 @@ const Navbar2 = () => {
                 </div>
                 <div className=' flex justify-center items-center w-[380px] md:flex md:w-[850px] md:h-[40px] text-black '>
                 <ul className='md:w-[78px] text-black font-semibold md:h-[30px] text-nowrap m-0 md:m-0 flex justify-center gap-2 md:flex  md:justify-center md:text-1xl md:gap-12'>
-                            <li><Link href="./" />New & Featured</li>
-                            <li><Link href="./" />Men</li>
-                            <li><Link href="./" />Women</li>
-                            <li><Link href="./" />Kids</li>
-                            <li><Link href="./" />Sale</li>
-                            <li><Link href="./" />SNKRS</li>
+                            <li><Link href="/home" >New & Featured</Link> </li>
+                            <li><Link href="/products" >Men </Link></li>
+                            <li><Link href="/products" >Women </Link></li>
+                            <li><Link href="/products" >Kids</Link></li>
+                            <li><Link href="/products" >Sale </Link></li>
+                            <li><Link href="/products" >SNKRS</Link></li>
 
                         </ul>
 
