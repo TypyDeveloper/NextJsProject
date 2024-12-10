@@ -15,7 +15,7 @@ const ProductDetails = () => {
                 PLT.AF.ORM</h2>
                 </div>
                 <div className='bg-orange-00 w-40 h-56 md:w-96  p-2 md:p-5 md:h-72 grid md:grid text-black  justify-between items-center md:space-y-4 '>
-                    <h2 className='text-wrap text-[9px] md:text-sm '  >Turn style on its head with this crafted take on the Air Jordan 1 Mid. Its "inside out"-inspired construction, including unique layering and exposed foam accents, ups the ante on this timeless Jordan Brand silhouette. Details like the deco stitching on the Swoosh add coveted appeal, while the unexpected shading, rich mixture of materials and aged midsole aesthetic give this release an artisan finish.</h2>
+                    <h2 className='text-wrap text-[9px] md:text-sm '>Turn style on its head with this crafted take on the Air Jordan 1 Mid. Its "inside out"-inspired construction, including unique layering and exposed foam accents, ups the ante on this timeless Jordan Brand silhouette. Details like the deco stitching on the Swoosh add coveted appeal, while the unexpected shading, rich mixture of materials and aged midsole aesthetic give this release an artisan finish.</h2>
                     <h1 className='md:text-2xl md:font-bold'>$8,695.00</h1>
                     
 
