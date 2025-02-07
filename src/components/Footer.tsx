@@ -30,7 +30,7 @@ const Footer = () => {
 
           {/* Third Column */}
           <div className="space-y-4">
-            <h3 className="text-sm font-bold uppercase">About Nike</h3>
+            <h3 className="text-sm font-bold uppercase">About Us</h3>
             <ul className="space-y-2">
               <li className="hover:underline">News</li>
               <li className="hover:underline">Careers</li>

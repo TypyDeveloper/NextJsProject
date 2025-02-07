@@ -10,7 +10,7 @@ const Dontmiss = () => {
                 <h2>Don&apos;t Miss</h2>
             </div>
             <div>
-                <Image src={"/assets/017347b121cf5c3f123897602c6d0905.png"} alt='' width={80} height={200} className='w-[480px] h-72 md:w-[1100px] md:h-[400px]'/>
+                <Image src={"/assets/017347b121cf5c3f123897602c6d0905.png"} alt='' width={1000} height={1000} quality={100} className='w-[480px] h-72 md:w-[1100px] md:h-[400px]'/>
 
             </div>
         </div>
