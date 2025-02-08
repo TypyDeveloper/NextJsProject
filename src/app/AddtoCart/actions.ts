@@ -1,4 +1,4 @@
-import product from "@/sanity/schemaTypes/product";
+
 import { ProductType } from "../../../types/products";
 
 export const Addtocart = (product : ProductType)=>{

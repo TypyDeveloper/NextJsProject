@@ -1,5 +1,5 @@
 "use client"
-import React, { use, useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { ProductType } from '../../../types/products'
 import { getCartItems } from '../AddtoCart/actions';
 import { Link } from 'lucide-react';
@@ -288,7 +288,7 @@ const Checkout = () => {
 </button>
   </div>
 </div>
-          
+
         </div>
       </div>
     </div>
