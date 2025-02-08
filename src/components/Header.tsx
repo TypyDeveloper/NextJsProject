@@ -11,7 +11,7 @@ const Header = () => {
           </Link>
         </div>
         <div className="space-x-4 text-[8px] md:text-base">
-        <Link href="/loginpage" className="hover:text-gray-300">Find a Store
+        <Link href="./carts" className="hover:text-gray-300">Find a Store
           </Link> |
           <Link href="/gethelp" className="hover:text-gray-300">Help
           </Link> |
