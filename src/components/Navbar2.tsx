@@ -18,14 +18,14 @@ const Navbar2 = () => {
             </div>
             {/* navbar */}
             <ul  className='sm:block justify-center items-center'>
-                <li className=' sm:space-x-1 sm:font-semibold sm:ml-60  hidden sm:flex'>
-                <Link href={'./'} className='mt-[6px]' >Home</Link>
+                <li className=' sm:space-x-4 sm:font-semibold sm:ml-60  hidden sm:flex mt-[6px]'>
+                <Link href={'./'} className='' >Home</Link>
                     
                     <Link href={"./carts"}>New & Featured </Link>
                     <Link href={"./carts"}>Men's</Link>
                     <Link href={"./carts"}>Women's</Link>
-                    <Link href={'./carts'} className='mt-[6px]' >Sale</Link> &nbsp;&nbsp;&nbsp;
-                    <Link className='mt-[6px]' href={"./carts"}>SNKRs </Link>
+                    <Link href={'./carts'} className='' >Sale</Link> 
+                    <Link className='' href={"./carts"}>SNKRs </Link>
 
                 </li>
             </ul>
