@@ -5,10 +5,7 @@ import { CiSearch } from "react-icons/ci";
 import { GoHeart } from "react-icons/go";
 import { IoCartOutline } from "react-icons/io5";
 import { SheetSide } from './Sheet';
-import { NavigationMenuDemo } from './NavigationDropdown';
-import { NavigationMenuDemo2 } from './NavigationDropdown';
-import { NavigationMenuDemo3 } from './NavigationDropdown';
-import { NavigationMenuDemo4 } from './NavigationDropdown';
+
 
 const Navbar2 = () => {
     return (
@@ -23,10 +20,10 @@ const Navbar2 = () => {
             <ul  className='sm:block justify-center items-center'>
                 <li className=' sm:space-x-1 sm:font-semibold sm:ml-60  hidden sm:flex'>
                 <Link href={'./'} className='mt-[6px]' >Home</Link>
-                    <Link href={"./carts"}><NavigationMenuDemo/> </Link>
-                    <Link href={"./carts"}><NavigationMenuDemo2/> </Link>
-                    <Link href={"./carts"}><NavigationMenuDemo3/> </Link>
-                    <Link href={"./carts"}><NavigationMenuDemo4/></Link>
+                    
+                    <Link href={"./carts"}>New & Featured </Link>
+                    <Link href={"./carts"}>Men's</Link>
+                    <Link href={"./carts"}>Women's</Link>
                     <Link href={'./carts'} className='mt-[6px]' >Sale</Link> &nbsp;&nbsp;&nbsp;
                     <Link className='mt-[6px]' href={"./carts"}>SNKRs </Link>
 

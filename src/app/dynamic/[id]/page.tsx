@@ -1,5 +1,6 @@
 
 
+
 import { client } from "@/sanity/lib/client";
 import { urlFor } from "@/sanity/lib/image";
 import { groq } from "next-sanity";
@@ -38,8 +39,8 @@ async function GetProduct(id: string): Promise<ProductType | null> {
   );
 }
 
-export default async function ProductPage({ params }: { params: { id: string } }) {
-  const { id } = params; // Extract `id` from the route parameters
+export default async function ProductPage({ params }: { params:Promise<{ id: string }>}) {
+  const { id } = await params; // Extract `id` from the route parameters
   const product = await GetProduct(id);
  
     return (

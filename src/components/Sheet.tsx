@@ -2,9 +2,7 @@
 
 import { Button } from "@/components/ui/button"
 import Link from "next/link";
-import { NavigationMenuDemo } from './NavigationDropdown';
-import { NavigationMenuDemo2 } from './NavigationDropdown';
-import { NavigationMenuDemo3 } from './NavigationDropdown';
+
 import {
   Sheet,
   SheetContent,
@@ -13,6 +11,7 @@ import {
   SheetTrigger,
 } from "@/components/ui/sheet"
 import { TiThMenu } from "react-icons/ti";
+
 
 const SHEET_SIDES = ["left"] as const
 
@@ -37,9 +36,9 @@ export function SheetSide() {
             {/* navbar */}
             <ul >
                 <li className='grid  font-medium  '>
-                    <Link href={""}><NavigationMenuDemo/></Link>
-                    <Link href={""}><NavigationMenuDemo2/> </Link>
-                    <Link href={""}><NavigationMenuDemo3/> </Link>
+                    <Link href={""}>New & Featured</Link>
+                    <Link href={""}>Men's</Link>
+                    <Link href={""}>Women's </Link>
                     <Link className="ml-5 mt-2" href={""}>Kids </Link>
                     <Link className="ml-5 mt-3 " href={""}>Sale</Link>
                     <Link className="ml-5 mt-3 " href={""}>SNKRs </Link>
